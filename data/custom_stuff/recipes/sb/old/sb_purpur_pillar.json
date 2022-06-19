@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+
+    {
+      "item": "minecraft:purpur_pillar"
+    }
+  ],
+  "result": {
+    "item": "minecraft:purpur_block"
+  }
+}
